@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ngrx-task-list"
+  "defaultProject": "ngrx-task-list",
+  "cli": {
+    "analytics": false
+  }
 }
